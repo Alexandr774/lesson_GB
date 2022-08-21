@@ -1,0 +1,16 @@
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\bin\Debug\net6.0\task_13.exe
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\bin\Debug\net6.0\task_13.deps.json
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\bin\Debug\net6.0\task_13.runtimeconfig.json
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\bin\Debug\net6.0\task_13.dll
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\bin\Debug\net6.0\ref\task_13.dll
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\bin\Debug\net6.0\task_13.pdb
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.GlobalUsings.g.cs
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.csproj.AssemblyReference.cache
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.AssemblyInfoInputs.cache
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.AssemblyInfo.cs
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.csproj.CoreCompileInputs.cache
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.dll
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\ref\task_13.dll
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.pdb
+C:\Users\cheka\Desktop\lesson_GB\lesson_2\task_13\obj\Debug\net6.0\task_13.genruntimeconfig.cache
