@@ -1,6 +1,5 @@
 ﻿int num1 = Convert.ToInt32(Console.ReadLine());
 int num2 = Convert.ToInt32(Console.ReadLine());
-int x = 0;
 
 if(num1 < num2){
     Console.WriteLine("max = " + num2);
